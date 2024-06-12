@@ -1,0 +1,14 @@
+let palavra;
+
+function setup() {
+  createCanvas(400, 400);
+let palavra;
+  let palavraAleatorio
+  paravra=palavraAleatoia();
+}
+
+function paravraAletoria() {
+  
+  let palavra = []
+  background(220);
+}
